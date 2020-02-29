@@ -1,14 +1,18 @@
 # tongcli
 
+####
 
 Generate class from schema defintion 
 
+
+## inferring from sample 
 https://github.com/RicoSuter/NJsonSchema/wiki/SampleJsonSchemaGenerator
 
 
+###
 https://github.com/RicoSuter/NJsonSchema
 
-
+#####
 class Program
 {
     static void Main(string[] args)
