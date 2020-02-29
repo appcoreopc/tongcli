@@ -3,6 +3,8 @@
 
 Generate class from schema defintion 
 
+https://github.com/RicoSuter/NJsonSchema/wiki/SampleJsonSchemaGenerator
+
 
 https://github.com/RicoSuter/NJsonSchema
 
